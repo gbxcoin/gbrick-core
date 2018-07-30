@@ -242,7 +242,7 @@ WAGON manages the state database created by execution of glogic, and provides
 integrity information to the gbrick main process.
 
 ### WAGON Architecture
-![WAGON Architecture](images/wagon_architecture.PNG)
+![WAGON Architecture](images/wagon_architecture.jpg)
 
 ### WAGON Components
 - glogic cli tools
