@@ -57,7 +57,7 @@ can be explained by the following keywords.
 
 ### LLFC phase
 
-![LLFC](images/llfc.PNG)
+![LLFC](images/llfc.png)
 
 ### LLFC pre-phase
 
