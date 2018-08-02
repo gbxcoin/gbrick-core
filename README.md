@@ -102,7 +102,7 @@ within the range.
 
 ### Proposal block hash
 When creating its own proposal block hash, each node includes its own signature and
-an arbitrary nonse value. (All hash values of the proposal block become different.)
+an arbitrary nonce value. (All hash values of the proposal block become different.)
 
 ### Select conflict tolerance
 - To prevent failure of the consensus round due to a select conflict when identical
